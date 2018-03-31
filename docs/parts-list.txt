@@ -1,0 +1,23 @@
+==================== PARTS LIST ====================
+
+GENERAL ----------------------------------------
+Car power supply
+Motor controller
+Power supply for the board (+ peripherals?)
+PI enclosure
+Screwdriver set
+
+MOTION ----------------------------------------
+IMU
+Raspberry Pi I2C
+
+CV ----------------------------------------
+Pi Camera
+
+IOT ----------------------------------------
+bluetooth dongle
+x3 bluetooth module hc08
+x3 Arduino power supply
+x3 Arduino enclosures
+
+=====================================================
